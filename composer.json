@@ -1,0 +1,24 @@
+{
+    "name": "mr-audio-guy/commons",
+    "description": "Handful of classes for common-type operations",
+    "license": "MS-PL",
+    "authors": [
+        {
+            "name": "Mustafa Talaeezadeh Khouzani",
+            "email": "your.brother.t@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "MrAudioGuy\\Commons\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
