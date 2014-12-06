@@ -1,7 +1,7 @@
 {
     "name": "mr-audio-guy/commons",
     "description": "Handful of classes for common-type operations",
-    "license": "MS-PL",
+    "license": "MIT",
     "authors": [
         {
             "name": "Mustafa Talaeezadeh Khouzani",
